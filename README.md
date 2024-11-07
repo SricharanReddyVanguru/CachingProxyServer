@@ -33,17 +33,18 @@ Boost (optional) for networking and concurrency support
 
 Clone the Repository:
 
-bash
-Copy code
 git clone git@github.com:SricharanReddyVanguru/CachingProxyServer.git
+
 cd CachingProxyServer
+
 Build the Project:
 
-bash
-Copy code
 mkdir build && cd build
+
 cmake ..
+
 make
+
 Run the Server:
 
 After building, start the caching proxy server with:

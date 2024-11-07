@@ -48,8 +48,7 @@ make
 Run the Server:
 
 After building, start the caching proxy server with:
-bash
-Copy code
+
 ./proxy_server
 
 
